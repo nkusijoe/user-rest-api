@@ -71,8 +71,7 @@ This API uses JWT (JSON Web Tokens) for authentication. To access protected rout
 
 Example:
 
-    ```shell
-      Authorization: Bearer your-jwt-token
+        Authorization: Bearer your-jwt-token
 Usage
 
   Register a new user using the /api/register endpoint.
