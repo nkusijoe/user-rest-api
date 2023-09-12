@@ -71,9 +71,8 @@ This API uses JWT (JSON Web Tokens) for authentication. To access protected rout
 
 Example:
 
-shell
-
-Authorization: Bearer your-jwt-token
+  ```shell
+      Authorization: Bearer your-jwt-token
 
 Usage
 
