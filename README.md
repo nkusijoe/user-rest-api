@@ -30,12 +30,12 @@ Before you begin, ensure you have met the following requirements:
 ### Installation
 
 1. **Clone the repository:**
-
    ```shell
    git clone https://github.com/yourusername/user-rest-api
 2. **Navigate to the project directory:**
     ```shell
-    cd your-api
+    cd user-rest-api
+  
 3. **install dependencies:**
 
     ```shell
