@@ -33,15 +33,15 @@ Before you begin, ensure you have met the following requirements:
 
    ```shell
    git clone https://github.com/yourusername/user-rest-api
-2. **Navigate to the project directory: **
+2. **Navigate to the project directory:**
     ```shell
     cd your-api
-3. **install dependencies: **
+3. **install dependencies:**
 
     ```shell
     npm install
 
-4. **Create a .env file in the root directory and configure your environment variables: **
+4. **Create a .env file in the root directory and configure your environment variables:**
 
     ```env
     PORT=3000
@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
     JWT_SECRET=your-secret-key
 
 
-5. **Start the server: **
+5. **Start the server:**
 
     ```shell
     npm start
