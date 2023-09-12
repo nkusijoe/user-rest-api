@@ -64,25 +64,5 @@ API Endpoints
     PUT /api/users/:id: Update user details by ID.
     DELETE /api/users/:id: Delete a user by ID.
 
-For detailed documentation on each endpoint, see the API documentation or Swagger documentation if available.
-Authentication
 
-This API uses JWT (JSON Web Tokens) for authentication. To access protected routes, include the JWT token in the Authorization header of your HTTP requests.
-
-Example:
-
-        Authorization: Bearer your-jwt-token
-Usage
-
-  Register a new user using the /api/register endpoint.
-  Authenticate using the /api/login endpoint to receive a JWT token.
-  Use the JWT token to access protected routes.
-  Manage user data with the provided CRUD operations.
-
-Contributing
-
-Contributions are welcome! Feel free to submit issues, pull requests, or suggestions to improve this API.
-License
-
-This project is licensed under the MIT License. See the LICENSE.md file for details.
 
